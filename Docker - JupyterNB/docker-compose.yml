@@ -6,4 +6,4 @@ services:
         - /absolute/path/here
       ports:
         - 8888:8888
-      container_name: compose_test
+      container_name: compose_test_2
